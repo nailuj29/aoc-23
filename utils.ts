@@ -5,9 +5,9 @@ export const loadData = async (day: number) => {
     return decoder.decode(data)
 }
 
-export const loadTestData = async (day: number) => {
+export const loadTestData = async (day: number, index:any = "") => {
     const decoder = new TextDecoder("utf-8")
-    const data = await Deno.readFile(`test_day${day}.dat`)
+    const data = await Deno.readFile(`test${index}_day${day}.dat`)
 
     return decoder.decode(data)
 }
