@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "create": "deno run --allow-write create.ts"
+    }
+}
