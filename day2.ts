@@ -1,5 +1,5 @@
 import { assertEquals } from "https://deno.land/std@0.208.0/assert/mod.ts";
-import {loadTestData, loadData } from "./utils.ts";
+import { loadTestData, loadData } from "./utils.ts";
 
 const part1test = 8; 
 const part2test = 2286;
