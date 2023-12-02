@@ -13,9 +13,9 @@ const part2 = (data: string) => {
 };
 
 assertEquals(part1(await loadTestData(${Deno.args[0]})), part1test)
-console.log(part1(loadData(${Deno.args[0]})))
+console.log(part1(await loadData(${Deno.args[0]})))
 // assertEquals(part2(await loadTestData(${Deno.args[0]})), part2test)
-// console.log(part2(loadData(${Deno.args[0]})))
+// console.log(part2(await loadData(${Deno.args[0]})))
 `
 
 const encoder = new TextEncoder();
