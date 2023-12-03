@@ -1,6 +1,6 @@
 # AOC 23
 
-This time in Deno/TypeScript
+This time in Deno/TypeScript!
 
 ## Completion Times
 | Day | Part 1 Time | Part 1 Global Rank | Part 2 Time | Part 2 Global Rank |
