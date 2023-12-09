@@ -58,11 +58,12 @@ const part2 = (data: string) => {
         winningNumbers, yourNumbers,
         id: id++
     }));
+    const winningsMap = cards.map(card => checkWins(card).map(id => cards[id]))
 
     let count = cards.length;
     let hand = cards;
     while (hand.length > 0) {
-        const winnings = hand.flatMap(card => checkWins(card)).map(id => cards[id]);
+        const winnings = hand.flatMap(card => winningsMap[card.id]);
         count += winnings.length;
 
         hand = winnings;
