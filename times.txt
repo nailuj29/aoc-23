@@ -1,84 +1,91 @@
 Day 1
 
 ________________________________________________________
-Executed in   31.28 millis    fish           external
-   usr time   25.14 millis   65.00 micros   25.07 millis
-   sys time    7.18 millis   16.00 micros    7.17 millis
+Executed in   32.24 millis    fish           external
+   usr time   21.32 millis   89.00 micros   21.23 millis
+   sys time   12.15 millis    0.00 micros   12.15 millis
 
 Day 2
 
 ________________________________________________________
-Executed in   27.53 millis    fish           external
-   usr time   24.28 millis   64.00 micros   24.21 millis
-   sys time    3.46 millis   16.00 micros    3.44 millis
+Executed in   27.60 millis    fish           external
+   usr time   20.81 millis   77.00 micros   20.74 millis
+   sys time    6.93 millis    0.00 micros    6.93 millis
 
 Day 3
 
 ________________________________________________________
-Executed in   44.33 millis    fish           external
-   usr time   37.92 millis   61.00 micros   37.86 millis
-   sys time   10.35 millis   15.00 micros   10.33 millis
+Executed in   43.71 millis    fish           external
+   usr time   28.40 millis   74.00 micros   28.33 millis
+   sys time   18.88 millis    0.00 micros   18.88 millis
 
 Day 4
 
 ________________________________________________________
-Executed in  624.30 millis    fish           external
-   usr time  616.37 millis   66.00 micros  616.30 millis
-   sys time   35.01 millis   16.00 micros   34.99 millis
+Executed in  626.76 millis    fish           external
+   usr time  613.14 millis   81.00 micros  613.06 millis
+   sys time   39.67 millis    0.00 micros   39.67 millis
 
 Day 5
 
 ________________________________________________________
-Executed in   36.12 millis    fish           external
-   usr time   26.16 millis   72.00 micros   26.09 millis
-   sys time   13.01 millis   18.00 micros   12.99 millis
+Executed in   37.55 millis    fish           external
+   usr time   32.63 millis   86.00 micros   32.54 millis
+   sys time    8.89 millis    0.00 micros    8.89 millis
 
 Day 6
 
 ________________________________________________________
-Executed in  104.38 millis    fish           external
-   usr time   95.84 millis   59.00 micros   95.78 millis
-   sys time    9.93 millis   15.00 micros    9.91 millis
+Executed in  106.14 millis    fish           external
+   usr time   92.80 millis   73.00 micros   92.72 millis
+   sys time   13.56 millis    0.00 micros   13.56 millis
 
 Day 7
 
 ________________________________________________________
-Executed in   93.32 millis    fish           external
-   usr time  131.98 millis   59.00 micros  131.92 millis
-   sys time    9.92 millis   15.00 micros    9.90 millis
+Executed in   96.40 millis    fish           external
+   usr time  129.29 millis   74.00 micros  129.21 millis
+   sys time   16.58 millis    0.00 micros   16.58 millis
 
 Day 8
 
 ________________________________________________________
-Executed in   80.64 millis    fish           external
-   usr time   73.94 millis   65.00 micros   73.87 millis
-   sys time    9.73 millis   16.00 micros    9.71 millis
+Executed in   79.68 millis    fish           external
+   usr time   79.62 millis    0.00 micros   79.62 millis
+   sys time    3.21 millis   78.00 micros    3.14 millis
 
 Day 9
 
 ________________________________________________________
-Executed in   35.57 millis    fish           external
-   usr time   37.89 millis   64.00 micros   37.82 millis
-   sys time    3.46 millis   16.00 micros    3.44 millis
+Executed in   35.93 millis    fish           external
+   usr time   24.95 millis    0.00 micros   24.95 millis
+   sys time   15.70 millis   80.00 micros   15.62 millis
 
 Day 10
 
 ________________________________________________________
-Executed in  109.99 millis    fish           external
-   usr time  130.71 millis   61.00 micros  130.65 millis
-   sys time   26.70 millis   16.00 micros   26.68 millis
+Executed in  110.83 millis    fish           external
+   usr time  140.74 millis    0.00 micros  140.74 millis
+   sys time   19.54 millis   79.00 micros   19.46 millis
 
 Day 11
 
 ________________________________________________________
-Executed in  254.31 millis    fish           external
-   usr time  259.70 millis    0.00 micros  259.70 millis
-   sys time   29.86 millis   89.00 micros   29.77 millis
+Executed in  253.12 millis    fish           external
+   usr time  270.50 millis    0.00 micros  270.50 millis
+   sys time   18.77 millis   75.00 micros   18.70 millis
 
 Day 12
 
 ________________________________________________________
-Executed in  328.62 millis    fish           external
-   usr time  325.77 millis    0.00 micros  325.77 millis
-   sys time   19.93 millis   85.00 micros   19.84 millis
+Executed in  514.38 millis    fish           external
+   usr time  340.85 millis    0.00 micros  340.85 millis
+   sys time   27.00 millis   79.00 micros   26.92 millis
+
+Day 13
+
+________________________________________________________
+Executed in   30.76 millis    fish           external
+   usr time   32.41 millis    0.00 micros   32.41 millis
+   sys time    0.07 millis   74.00 micros    0.00 millis
 
