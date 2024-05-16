@@ -21,4 +21,5 @@ This time in Deno/TypeScript!
 | 2   | 00:15:00    | 2866               | 00:19:59    | 2834               |
 | 1   | 00:07:48    | 3853               | 00:32:26    | 3578               |
 
-Note: I sometimes am asleep during the start time; then I don't have any chance of completing it in a decent time.
+> [!NOTE]
+> I sometimes am asleep during the start time; then I don't have any chance of completing it in a decent time.
